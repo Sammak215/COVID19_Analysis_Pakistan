@@ -8,3 +8,5 @@ Due to huge amount of mishaps which are misleading counts for the confirmed ,dea
 The files contain one Jupter Notebook with the dataset attached , the notebook consist the full code for the analysis identified.
 # Results
 The results showed the actual numbers of Corona Virus Confirmed,Deaths and Recoverd Cases from the start of this pandamic in Pakistan.
+# My Blog Post
+https://medium.com/@sammakhussain26_36791/covid-19-pakistan-the-actual-numbers-9b830ab3fcaf
